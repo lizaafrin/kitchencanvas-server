@@ -1,6 +1,6 @@
 [
   {
-    "recipeName": "Kung Pao Chicken",
+    "recipeName": "Szechuan Chicken",
     "ingredients": [
       "chicken breast",
       "soy sauce",
@@ -13,11 +13,12 @@
       "ginger",
       "vegetable oil"
     ],
+    "photoUrl": "https://img.freepik.com/free-photo/homemade-roasted-chicken-leg-with-rosemary_1205-12243.jpg?w=900&t=st=1683028044~exp=1683028644~hmac=696d6423e4d0aa72e2327382d2e8e7a603be7d148aa6bdbb96b19916f5bc459b",
     "cookingMethod": "1. Marinate the chicken with soy sauce and cornstarch.  2. Fry the Sichuan peppercorns and dried chili peppers in oil.  3. Add garlic, ginger, and green onions.  4. Add the chicken and cook until done.  5. Add peanuts and stir-fry briefly.",
     "rating": 4.5
   },
   {
-    "recipeName": "Mapo Tofu",
+    "recipeName": "Chipotle Grilled Tofu",
     "ingredients": [
       "tofu",
       "ground pork",
@@ -30,11 +31,12 @@
       "chicken broth",
       "cornstarch"
     ],
+    "photoUrl": "https://img.freepik.com/free-photo/stir-fried-kale-spicy-crispy-pork-wooden-table-thai-food-concept_1150-26544.jpg?w=900&t=st=1683027859~exp=1683028459~hmac=764cc9c66ade55eda2c693e360bae011228a940cd85ca73b320ecd163c68d8bc",
     "cookingMethod": "1. Fry the Sichuan peppercorns in oil.  2. Add the ground pork, doubanjiang, garlic, ginger, and green onions.  3. Add the tofu and chicken broth.  4. Thicken the sauce with cornstarch.",
     "rating": 4.3
   },
   {
-    "recipeName": "Hot and Sour Soup",
+    "recipeName": "Chinese Chicken Mushroom Soup",
     "ingredients": [
       "dried wood ear mushrooms",
       "dried shiitake mushrooms",
@@ -47,11 +49,12 @@
       "soy sauce",
       "chicken broth"
     ],
+    "photoUrl": "https://img.freepik.com/free-photo/top-view-tasty-meatballs-soup-with-greens-pepper-dark-table-sauce-dish-color_140725-81715.jpg?w=900&t=st=1683027505~exp=1683028105~hmac=686a5b5d017bdf6b9d8a1397e5e9daae8d35692e5524be81ee8c2c824afc7e03",
     "cookingMethod": "1. Soak the mushrooms in hot water.  2. Add the mushrooms, tofu, and bamboo shoots to the chicken broth.  3. Thicken the soup with cornstarch.  4. Add beaten eggs and stir.  5. Season with white pepper, rice vinegar, and soy sauce.",
     "rating": 4.2
   },
   {
-    "recipeName": "Dumplings",
+    "recipeName": "Chinese-Jiaozi",
     "ingredients": [
       "ground pork",
       "cabbage",
@@ -64,17 +67,19 @@
       "wonton wrappers",
       "water"
     ],
+    "photoUrl": "https://img.freepik.com/free-photo/chinese-jiaozi-new-year-food_1205-3336.jpg?w=900&t=st=1683026738~exp=1683027338~hmac=701a14cce02700cc581f0edca5be8d432c764da3efe514ab99b5d9dcf32481fa",
     "cookingMethod": "1. Mix the pork, cabbage, scallions, soy sauce, sesame oil, rice wine, salt, and sugar.  2. Fill the wonton wrappers with the mixture.  3. Boil the dumplings in water until cooked.",
     "rating": 4.7
   },
   {
-    "recipeName": "Scallion Pancakes",
+    "recipeName": "Chinese Green Onion Pancakes",
     "ingredients": ["flour", "water", "scallions", "vegetable oil", "salt"],
+    "photoUrl": "https://img.freepik.com/free-photo/arrangement-delicious-healthy-meal-table_23-2148992985.jpg?w=900&t=st=1683027335~exp=1683027935~hmac=1aa2b30c3534a0c172e577c95fd41c4cafa8b39adb4ae689a23f2af3418dc89f",
     "cookingMethod": "1. Mix the flour, water, and salt to form a dough.  2. Roll out the dough and add scallions.  3. Fold the dough over and flatten it again.  4. Fry the pancake in oil until crispy.",
     "rating": 4.1
   },
   {
-    "recipeName": "Beef and Broccoli",
+    "recipeName": "Chinese Beef and Broccoli",
     "ingredients": [
       "beef sirloin",
       "broccoli",
@@ -86,6 +91,7 @@
       "vegetable oil",
       "rice wine"
     ],
+    "photoUrl": "https://img.freepik.com/free-photo/pieces-chicken-fillet-with-mushrooms-stewed-tomato-sauce-with-boiled-broccoli-rice-proper-nutrition-healthy-lifestyle-dietetic-menu-top-view_2829-20015.jpg?w=900&t=st=1683026240~exp=1683026840~hmac=b59475308f4b858e22eaaa563d3df801d6ce39bf62862ad4ad26993a0987a5d6",
     "cookingMethod": "1. Marinate the beef with soy sauce, oyster sauce, cornstarch, and rice wine.  2. Blanch the broccoli.  3. Stir-fry the beef in oil with garlic and ginger.  4. Add the broccoli and stir-fry briefly.",
     "rating": 4.4
   }
