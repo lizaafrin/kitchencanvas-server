@@ -1,0 +1,57 @@
+[
+  {
+    "chefId": "1",
+    "picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+    "name": "John Smith",
+    "yearOfExp": 10,
+    "numOfRecipes": 8,
+    "likes": "4.6k",
+    "bio": "John Smith is a world-renowned chef with a passion for creating innovative and delicious dishes. He has been in the industry for over 10 years and has developed a reputation for his unique flavor combinations and presentation."
+  },
+
+  {
+    "chefId": "2",
+    "picture": "https://images.unsplash.com/photo-1669707569583-8d4c8051130a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fGNoZWYlMjBwaWN0dXJlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Mary Johnson",
+    "yearOfExp": 8,
+    "numOfRecipes": 13,
+    "likes": "4.4k",
+    "bio": "Mary Johnson is a talented chef who specializes in creating healthy and delicious meals. She has been in the industry for 8 years and has a passion for using fresh, seasonal ingredients to create flavorful dishes."
+  },
+  {
+    "chefId": "3",
+    "picture": "https://images.unsplash.com/photo-1636114980244-2e10fe36f213?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGNoZWYlMjBwaWN0dXJlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "David Lee",
+    "yearOfExp": 12,
+    "numOfRecipes": 7,
+    "likes": "6.2k",
+    "bio": "David Lee is an experienced chef with over 12 years in the industry. He has a passion for creating unique dishes that combine traditional flavors with modern techniques."
+  },
+  {
+    "chefId": "4",
+    "picture": "https://images.unsplash.com/photo-1665596666171-2378d6e973b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDJ8fGNoZWYlMjBwaWN0dXJlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Rachel Kim",
+    "yearOfExp": 6,
+    "numOfRecipes": 10,
+    "likes": "4k",
+    "bio": "Rachel Kim is a talented chef who specializes in creating desserts and baked goods. She has been in the industry for 6 years and has a passion for using fresh, high-quality ingredients to create delicious treats."
+  },
+  {
+    "chefId": "5",
+    "picture": "https://images.pexels.com/photos/8629122/pexels-photo-8629122.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "name": "Mark Chen",
+    "yearOfExp": 15,
+    "numOfRecipes": 12,
+    "likes": "8k",
+    "bio": "Mark Chen is a highly skilled chef who has been in the industry for over 15 years. He has a passion for creating authentic Asian dishes and has developed a reputation for his bold and complex flavors."
+  },
+  {
+    "chefId": "6",
+    "picture": "https://images.pexels.com/photos/4057742/pexels-photo-4057742.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "name": "Sarah Davis",
+    "yearOfExp": 4,
+    "numOfRecipes": 6,
+    "likes": "5k",
+    "bio": "Sarah Davis is a young and talented chef who has been in the industry for 4 years. She has a passion for creating healthy and nutritious meals that are both delicious and satisfying."
+  }
+]
