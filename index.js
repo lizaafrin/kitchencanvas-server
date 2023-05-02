@@ -16,6 +16,12 @@ app.get("/recipes", (req, res) => {
   res.send(recipes);
 });
 
+app.get("/:id", (req, res) => {
+  const id = req.params.id;
+  const chef = chefInfo.find((chef) => chef.chefId === id);
+  res.send(chef);
+});
+
 app.listen(port, () => {
   console.log(`Chef Website is Running on Port: ${port}`);
 });
